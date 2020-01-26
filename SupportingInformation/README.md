@@ -9,4 +9,4 @@
 8. [AppendixS3.Rmd](https://github.com/farrmt/HMSDS/blob/master/SupportingInformation/AppendixS3.Rmd): R markdown file to create [AppendixS3.pdf](https://github.com/farrmt/HMSDS/blob/master/SupportingInformation/AppendixS3.pdf).
 9. [AppendixS3.pdf](https://github.com/farrmt/HMSDS/blob/master/SupportingInformation/AppendixS3.pdf): Parameter estiamtes from [HMSDS.R](https://github.com/farrmt/HMSDS/blob/master/DataAnalysis/HMSDS.R).
 10. [sim.save.R](https://github.com/farrmt/HMSDS/blob/master/SupportingInformation/sim.save.R): Simulation output from [Simulation.R](https://github.com/farrmt/HMSDS/blob/master/SupportingInformation/Simulation.R).
-11. [summary.R](): Summary of [sim.save.R](https://github.com/farrmt/HMSDS/blob/master/SupportingInformation/sim.save.R) within [Simulation.R](https://github.com/farrmt/HMSDS/blob/master/SupportingInformation/Simulation.R). 
+11. [summary.R](https://github.com/farrmt/HMSDS/blob/master/SupportingInformation/summary.R): Summary of [sim.save.R](https://github.com/farrmt/HMSDS/blob/master/SupportingInformation/sim.save.R) within [Simulation.R](https://github.com/farrmt/HMSDS/blob/master/SupportingInformation/Simulation.R). 
